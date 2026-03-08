@@ -1,4 +1,4 @@
-# 100-expert-pi-network-crypto-opportunity-prompts:-copy-paste
+# 100 Expert Pi Network Crypto Opportunity Prompts: Copy-Paste AI Commands That Actually Work
 
 Become an AI power user with our premium pack of 100 expert prompts for the Pi Network crypto opportunity! Each prompt is specifically designed to help you get the most out of your investment and maxi
 
@@ -6,7 +6,7 @@ Become an AI power user with our premium pack of 100 expert prompts for the Pi N
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 6 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,14 @@ Become an AI power user with our premium pack of 100 expert prompts for the Pi N
 ## Sample
 
 ```json
-Keys: title, description, price
+{
+  "name": "Basic Information Prompts",
+  "prompts": [
+    "What is the current value of my Pi Network investment?",
+    "How can I get started with the Pi Network?",
+    "What are some common use cases for the Pi Network crypto opportunity?"
+  ]
+}
 ```
 
 ## Usage
