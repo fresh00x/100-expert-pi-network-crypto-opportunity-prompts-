@@ -1,5 +1,50 @@
-{
-  "title": "100 Expert Pi Network Crypto Opportunity Prompts: Copy-Paste AI Commands That Actually Work",
-  "description": "Become an AI power user with our premium pack of 100 expert prompts for the Pi Network crypto opportunity! Each prompt is specifically designed to help you get the most out of your investment and maximize your potential earnings. Whether you're just starting or are an experienced member, these ready-to-use prompts will help you navigate the ever-changing landscape of the Pi Network.",
-  "price": 7.0
-}
+[
+  {
+    "name": "Basic Information Prompts",
+    "prompts": [
+      "What is the current value of my Pi Network investment?",
+      "How can I get started with the Pi Network?",
+      "What are some common use cases for the Pi Network crypto opportunity?"
+    ]
+  },
+  {
+    "name": "Investment Strategies Prompts",
+    "prompts": [
+      "Can you suggest a reliable long-term investment strategy for my Pi Network holdings?",
+      "How can I optimize my investments to maximize my earnings potential on the Pi Network?",
+      "What are some high-risk, high-reward strategies for investing in the Pi Network crypto opportunity?"
+    ]
+  },
+  {
+    "name": "Earning Strategies Prompts",
+    "prompts": [
+      "Can you provide tips for earning more on the Pi Network?",
+      "What are some passive income opportunities within the Pi Network crypto opportunity?",
+      "How can I leverage my existing holdings to generate more income from the Pi Network?"
+    ]
+  },
+  {
+    "name": "Security and Safety Prompts",
+    "prompts": [
+      "How do I protect myself from scams and fraudulent activities related to the Pi Network crypto opportunity?",
+      "What measures should I take to ensure the security of my Pi Network holdings?",
+      "Can you advise on best practices for keeping my investments safe within the Pi Network?"
+    ]
+  },
+  {
+    "name": "Community Engagement Prompts",
+    "prompts": [
+      "How can I get involved in the Pi Network community to learn more and connect with like-minded individuals?",
+      "What events or resources are available for me to stay informed about the Pi Network crypto opportunity?",
+      "Can you recommend ways to contribute to the growth of the Pi Network community?"
+    ]
+  },
+  {
+    "name": "Advanced Use Cases Prompts",
+    "prompts": [
+      "How can I use smart contracts to take advantage of unique opportunities within the Pi Network?",
+      "What are some innovative strategies for leveraging the power of the Pi Network crypto opportunity in combination with other cryptocurrencies or blockchain technologies?",
+      "Can you guide me through a case study demonstrating how these expert prompts have helped others succeed in the Pi Network?"
+    ]
+  }
+]
